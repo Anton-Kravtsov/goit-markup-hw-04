@@ -295,6 +295,7 @@ button {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--body-text);
+  margin-bottom: 8px;
 }
 
 .text-descr {
@@ -311,6 +312,22 @@ button {
 
 .employee {
   padding: 32px 16px;
+}
+
+.social-list {
+  display: flex;
+  justify-content: center;
+  column-gap: 24px;
+}
+
+.social-list-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #4d5ae5;
 }
 
 /* =========================footer====================== */
