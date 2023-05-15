@@ -177,6 +177,8 @@ button {
 
 .hero {
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   background-color: var(--hero-background);
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     url(../images/bg-folder/bg.jpg);
@@ -331,6 +333,15 @@ button {
   height: 40px;
   border-radius: 50%;
   background-color: #4d5ae5;
+}
+
+.social-list-item {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
+    0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+
+.employee {
+  padding: 32px 0;
 }
 
 /* =========================footer====================== */
