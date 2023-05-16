@@ -327,8 +327,8 @@ button {
   gap: 24px;
 }
 
-.social-list:hover,
-.social-list:focus {
+.social-list-link:hover,
+.social-list-link:focus {
   background-color: #404bbf;
 }
 
