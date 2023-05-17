@@ -399,6 +399,13 @@ button {
   height: 100%;
   border: 1px solid #8e8f99;
   border-radius: 4px;
+  color: var(--subtitle-text);
+}
+
+.customers-list-link:hover,
+.customers-list-link:focus {
+  border-color: #404bbf;
+  color: #404bbf;
 }
 
 /* =========================footer====================== */
