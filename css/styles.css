@@ -408,6 +408,9 @@ button {
   color: #404bbf;
 }
 
+.customers-list-icon {
+  fill: currentColor;
+}
 /* =========================footer====================== */
 
 .footer-main {
