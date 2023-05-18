@@ -415,7 +415,6 @@ button {
 
 .footer-main {
   background-color: var(--hero-background);
-  
 }
 
 .footer-logo-color {
@@ -429,25 +428,22 @@ button {
 
 .text-descr-footer {
   font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #F4F4FD;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
-
-
 
 .footer-sections {
   display: flex;
   align-items: baseline;
-  
 }
 
 .footer-text {
   width: 264px;
   height: 112px;
   gap: 120px;
-  }
+}
 
 .footer-social {
   width: 208px;
@@ -474,7 +470,7 @@ color: #F4F4FD;
 
 .social-list-link-footer:hover,
 .social-list-link-footer:focus {
-  background-color: #31D0AA;
+  background-color: #31d0aa;
 }
 
 .social-list-link-footer {
@@ -493,6 +489,7 @@ color: #F4F4FD;
 }
 .social-list-icon-footer {
   fill: #f4f4fd;
+}
 
 /* ========================portfolio===================== */
 
