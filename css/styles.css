@@ -439,6 +439,7 @@ color: #F4F4FD;
 
 .footer-sections {
   display: flex;
+  align-items: baseline;
   width: 1440px;
 }
 
@@ -470,7 +471,7 @@ color: #F4F4FD;
 .social-list-footer {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
 }
 
 .social-list-link-footer:hover,
